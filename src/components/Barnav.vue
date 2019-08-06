@@ -1,12 +1,16 @@
 <template>
 <div class="container-fluid bg-blue">
   <div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-blue">
+    <img class="d-block ml-3" src="../assets/gob.svg" width="105" alt="">
+
+    <nav class="navbar pt-0 navbar-expand-lg navbar-light bg-blue">
     <!-- <a class="navbar-brand text-white" href="#">
       <img src="../assets/by.svg" alt=""> 
     </a> -->
+    
     <a class="" href="http://" target="_blank" rel="noopener noreferrer">
-      <img class="d-block " src="../assets/gob.svg" width="105" alt="">
+    
+      <!-- <img class="d-block " src="../assets/gob.svg" width="105" alt=""> -->
       <img class="d-block " src="../assets/by.svg" width="105" alt="">
     </a>
      
